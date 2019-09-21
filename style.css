@@ -1,0 +1,23 @@
+    /*這裡面CSS的語法*/
+    /* CSS選擇棄*/
+    /*標籤名稱選擇棄*/
+    body{font-family:"微軟正黑體","新細明體"}
+    /* ID選擇氣*/
+    #del{text-decoration:line-through;}
+    /*Class 選擇棄*/
+    .style1{color:aqua
+            ;font-size:24px;
+            font-weight:bold;
+            }
+    .style2{height: 40px;
+             margin-top:10px;
+             color:khaki;
+             border:10px solid teal;
+             padding:10px;
+             background:"111.jpg"
+            }
+    .style3{font-size:30px;
+            color:teal
+            }
+    .style4{background-color:gray}
+    .underline{text-decoration:underline}
